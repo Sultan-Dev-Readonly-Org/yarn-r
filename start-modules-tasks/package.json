@@ -24,7 +24,7 @@
     "registry": "https://registry.npmjs.org"
   },
   "dependencies": {
-    "bluebird": "3.5.0",
+    "bluebird": "3.7.2",
     "deep-equal": "1.0.1",
     "deep-keys": "0.4.0",
     "exec-then": "1.3.1",
