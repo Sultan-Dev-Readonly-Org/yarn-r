@@ -24,7 +24,7 @@
     "registry": "https://registry.npmjs.org"
   },
   "devDependencies": {
-    "chai": "3.5.0",
+    "chai": "4.3.7",
     "eslint": "3.19.0",
     "eslint-plugin-mocha": "4.9.0",
     "mocha": "3.4.1",
