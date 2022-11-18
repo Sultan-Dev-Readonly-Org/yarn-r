@@ -24,7 +24,7 @@
     "registry": "https://registry.npmjs.org"
   },
   "dependencies": {
-    "fs-extra": "3.0.1"
+    "fs-extra": "10.1.0"
   },
   "devDependencies": {
     "chai": "3.5.0",
